@@ -13,7 +13,7 @@ Esse projeto faz scraping de produtos da Amazon usando Bun no backend e Vite no 
  ## Executar front end primeiro
  ## Executar os dois no terminal
 ## Como Rodar
-## Backend
+## Backend e Frontend
 ```sh
 cd backend
 bun install
